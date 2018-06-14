@@ -271,6 +271,7 @@
     -webkit-box-shadow: 0 8px 22px rgba(34, 25, 25, 0.4);
     width: 500px;
     height: 40px;
+    border-radius: 50px;
     margin: 50px auto;
 }
 
